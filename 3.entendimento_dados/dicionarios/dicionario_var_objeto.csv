@@ -1,0 +1,6 @@
+variavel,variavel-pt,descricao-pt,descricao-en,tipo,subtipo
+Timestamp,Data e Hora,Momento exato em que as condições ambientais e operacionais foram registradas em um ambiente simulado.,Exact moment when environmental and operational conditions were recorded in a simulated environment.,Qualitativa,Nominal
+HVACUsage,Uso do HVAC,"Nível de uso do sistema de climatização (baixo, médio, alto), que reflete as condições térmicas e de ocupação.","HVAC system usage level (low, medium, high), reflecting thermal and occupancy conditions.",Qualitativa,Ordinal
+LightingUsage,Uso de Iluminação,"Nível de uso do sistema de iluminação (baixo, médio, alto), influenciado por ocupação e horário do dia.","Lighting system usage level (low, medium, high), influenced by occupancy and time of day.",Qualitativa,Ordinal
+DayOfWeek,Dia da Semana,"Dia correspondente ao registro (ex: segunda, terça...), útil para análises de padrões semanais de consumo.","Day corresponding to the record (e.g., Monday, Tuesday...), useful for weekly consumption patterns.",Qualitativa,Nominal
+Holiday,Feriado,"Indica se o dia registrado é um feriado, o que pode impactar significativamente a ocupação e o consumo.","Indicates whether the recorded day is a holiday, which can significantly affect occupancy and consumption.",Qualitativa,Nominal
